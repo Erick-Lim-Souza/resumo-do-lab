@@ -2,7 +2,7 @@
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 # 🚀 Bootcamp Microsoft 50 Anos: Computação em Nuvem com Azure
 
-Este repositório contém o resumo da minha jornada no **Bootcamp Microsoft 50 Anos - Computação em Nuvem com Azure**, promovido pela [DIO]([https://www.dio.me/bootcamp/microsoft-50-anos-computacao-em-nuvem-com-azure](https://www.dio.me/bootcamp/microsoft-50-anos-computacao-em-nuvem-com-azure?ref=WXGX22ZC2R)), com apoio da Microsoft. Durante a trilha, aprendi os fundamentos da computação em nuvem, explorei serviços essenciais do Azure e participei de desafios práticos que fortaleceram meus conhecimentos técnicos.
+Este repositório contém o resumo da minha jornada no **Bootcamp Microsoft 50 Anos - Computação em Nuvem com Azure**, promovido pela [DIO](https://www.dio.me/bootcamp/microsoft-50-anos-computacao-em-nuvem-com-azure?ref=WXGX22ZC2R), com apoio da Microsoft. Durante a trilha, aprendi os fundamentos da computação em nuvem, explorei serviços essenciais do Azure e participei de desafios práticos que fortaleceram meus conhecimentos técnicos.
 Este repositório contém o resumo da minha jornada no **Bootcamp Microsoft 50 Anos - Computação em Nuvem com Azure**, promovido pela [DIO] , com apoio da Microsoft. Durante a trilha, aprendi os fundamentos da computação em nuvem, explorei serviços essenciais do Azure e participei de desafios práticos que fortaleceram meus conhecimentos técnicos.
 
 ---
